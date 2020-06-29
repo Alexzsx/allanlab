@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "sxzhang - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "sxzhang at City University of Hong Kong."
 sitemap: false
 permalink: /
 ---
