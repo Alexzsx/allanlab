@@ -9,7 +9,7 @@
   news2:
 
 - title: "Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning"
-  image: TBG_ARPES.png
+  image: DeepAE.png
   description: 
   authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Jiecong Lin, Ka-Chun Wong*
   link:
@@ -49,7 +49,7 @@
   news2:
 
 - title: "Nature-Inspired Compressed Sensing for Transcriptomic Profiling From Random Composite Measurements"
-  image: DomePub.png
+  image: DECS.png
   description: 
   authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong*
   link:
@@ -90,7 +90,7 @@
   news2:
 
 - title: "Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications"
-  image: Fano.png
+  image: Crisper.png
   description: ""
   authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong*
   link:
