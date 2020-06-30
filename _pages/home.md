@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Shixiong Zhang received his B.Sc. Degree in Information Management and Information System in 2014 and M.Sc. Degree in Management StatistDics in 2017 from the School of Information, Zhejiang University of Finance & Economics, China. Now he is a Ph.D. student in the Department of Computer Science, City University of Hong Kong. His research interests include Bioinformatics, Computational Intelligence, and Applied Machine Learning.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
