@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Shixiong Zhang received his B.Sc. Degree in Information Management and Information System in 2014 and M.Sc. Degree in Management StatistDics in 2017 from the School of Information, Zhejiang University of Finance & Economics, China. Now he is a Ph.D. student in the Department of Computer Science, City University of Hong Kong. His research interests include Bioinformatics, Computational Intelligence, and Applied Machine Learning.
+Shixiong Zhang received his B.Sc. Degree in Information Management and Information System in 2014 and M.Sc. Degree in Management Statistdics in 2017 from the School of Information, Zhejiang University of Finance & Economics, China. Now he is a Ph.D. student in the Department of Computer Science, City University of Hong Kong. His research interests include Bioinformatics, Computational Intelligence, and Applied Machine Learning.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
