@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=DU23jgQAAAAJ&hl=en), [ResearcheGate](https://www.researchgate.net/profile/Shixiong_Zhang))
 
