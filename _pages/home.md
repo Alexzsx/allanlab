@@ -59,8 +59,8 @@ Shixiong Zhang received his B.Sc. Degree in Information Management and Informati
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JHUM.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/zufe.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WongGroup.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU.png" style="width: 190px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JHUM.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/zufe.png" style="width: 200px">
+  
 </figure>
