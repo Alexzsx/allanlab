@@ -109,7 +109,7 @@
   highlight: 0
   news2: 
   
- - title: "Nature-inspired Multiobjective Epistasis Elucidation from Genome-wide Association Studies"
+- title: "Nature-inspired Multiobjective Epistasis Elucidation from Genome-wide Association Studies"
   image: Fano.png
   description: ""
   authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
@@ -119,7 +119,7 @@
   highlight: 0
   news2: 
   
- - title: "A Multi-factor and High-order Stock Forecast Model based on Type-2 FTS Using Cuckoo Search and self-adaptive Harmony Search"
+- title: "A Multi-factor and High-order Stock Forecast Model based on Type-2 FTS Using Cuckoo Search and self-adaptive Harmony Search"
   image: Fano.png
   description: ""
   authors: Wenyu Zhang*, Shixiong Zhang, Shuai Zhang, Dejian Yu, NingNing Huang
@@ -128,7 +128,7 @@
     display:  Neurocomputing (2017)
   highlight: 0
   news2: 
-    
+  
 - title: "A Novel Method for MCDM and Evaluation of Manufacturing Services Using Collaborative Filtering and IVIF Theory"
   image: Fano.png
   description: ""
