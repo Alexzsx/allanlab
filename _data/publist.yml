@@ -58,6 +58,16 @@
   highlight: 1
   news2:
 
+- title: "Early Cancer Detection from Multianalyte Blood Test Results"
+  image: SmartPub.png
+  description: 
+  authors: Ka-Chun Wong*, Junyi Chen, Jiao Zhang, Jiecong Lin, Shankai Yan, Shixiong Zhang, Xiangtao Li, Cheng Liang, Chengbin Peng, Qiuzhen Lin, Sam Kwong, Jun Yu
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2589004219301324
+    display: iSicence (2019)
+  highlight: 0
+  news2:
+
 - title: "Single-cell RNA-seq interpretations using evolutionary multiobjective ensemble pruning"
   image: Pub_BCl.png
   description: 
@@ -76,16 +86,6 @@
   link:
     url: https://link.springer.com/article/10.1007/s00500-018-3335-2
     display:  Soft Computing (2018)
-  highlight: 0
-  news2:
-
-- title: "Early Cancer Detection from Multianalyte Blood Test Results"
-  image: SmartPub.png
-  description: 
-  authors: Ka-Chun Wong*, Junyi Chen, Jiao Zhang, Jiecong Lin, Shankai Yan, Shixiong Zhang, Xiangtao Li, Cheng Liang, Chengbin Peng, Qiuzhen Lin, Sam Kwong, Jun Yu
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S2589004219301324
-    display: iSicence (2019)
   highlight: 0
   news2:
 
