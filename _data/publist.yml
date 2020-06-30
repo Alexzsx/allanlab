@@ -68,7 +68,7 @@
   highlight: 0
   news2:
 
-- title: "Single-cell RNA-seq interpretations using evolutionary multiobjective ensemble pruning"
+- title: "Single-cell RNA-seq Interpretations using  Evolutionary Multiobjective Ensemble Pruning"
   image: Pub_BCl.png
   description: 
   authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
@@ -89,7 +89,7 @@
   highlight: 0
   news2:
 
-- title: "Synergizing CRISPR/Cas9 off-target predictions for ensemble insights and practical applications"
+- title: "Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications"
   image: Fano.png
   description: ""
   authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong*
@@ -99,7 +99,7 @@
   highlight: 1
   news2: 
 
-- title: "Two-factor high-order fuzzy-trend FTS model based on BSO-FCM and improved KA for TAIEX stock forecasting"
+- title: "Two-factor High-order Fuzzy-trend FTS Model based on BSO-FCM and Improved KA for TAIEX Stock Forecasting"
   image: Fano.png
   description: ""
   authors: Wenyu Zhang, Shixiong Zhang, Shuai Zhang*
@@ -109,7 +109,7 @@
   highlight: 0
   news2: 
   
-  - title: "Nature-inspired multiobjective epistasis elucidation from genome-wide association studies"
+ - title: "Nature-inspired Multiobjective Epistasis Elucidation from Genome-wide Association Studies"
   image: Fano.png
   description: ""
   authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
@@ -119,7 +119,7 @@
   highlight: 0
   news2: 
   
-  - title: "A multi-factor and high-order stock forecast model based on Type-2 FTS using cuckoo search and self-adaptive harmony search"
+ - title: "A Multi-factor and High-order Stock Forecast Model based on Type-2 FTS Using Cuckoo Search and self-adaptive Harmony Search"
   image: Fano.png
   description: ""
   authors: Wenyu Zhang*, Shixiong Zhang, Shuai Zhang, Dejian Yu, NingNing Huang
@@ -129,7 +129,7 @@
   highlight: 0
   news2: 
     
-  - title: "A novel method for MCDM and evaluation of manufacturing services using collaborative filtering and IVIF theory"
+- title: "A Novel Method for MCDM and Evaluation of Manufacturing Services Using Collaborative Filtering and IVIF Theory"
   image: Fano.png
   description: ""
   authors: Wenyu Zhang, Shixiong Zhang*, Shuai Zhang, Dejian Yu
