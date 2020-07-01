@@ -60,7 +60,5 @@ Shixiong Zhang received his B.Sc. Degree in Information Management and Informati
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU.png" style="width: 190px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JHUM.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/zufe.png" style="width: 190px">
-  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JHUM.png" style="width: 210px">
 </figure>
