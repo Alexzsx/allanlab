@@ -1,5 +1,5 @@
 ---
-title: "sxzhang - Home"
+title: "Zhang - Home"
 layout: homelay
 excerpt: "sxzhang at City University of Hong Kong."
 sitemap: false
